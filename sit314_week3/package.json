@@ -1,0 +1,9 @@
+{
+  "name": "week_3_mqtt_project",
+  "version": "1.0.0",
+  "description": "MQTT client and server example for SIT314",
+  "main": "client.js",
+  "dependencies": {
+    "mqtt": "^5.14.0"
+  }
+}
