@@ -1,0 +1,23 @@
+{
+  "devices": [
+    {
+      "id": "b9c3",
+      "name": "Add your name in the body"
+    },
+    {
+      "id": "014f",
+      "name": "Bob's iPhone",
+      "user": "bob",
+      "sensorData": [
+        {
+          "ts": "1529545935",
+          "temp": 14,
+          "loc": {
+            "lat": -37.839587,
+            "lon": 145.101386
+          }
+        }
+      ]
+    }
+  ]
+}
